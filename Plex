@@ -13,5 +13,5 @@ DOMAIN-KEYWORD,poloemby
 DOMAIN,plex.vv.gd
 DOMAIN-SUFFIX,emby.9191001.xyz
 DOMAIN-KEYWORD,ccemby
-RULE-SET,https://gist.githubusercontent.com/IlluminateDarkheat/d8d02c34cf2e4f96f61329d5946f8dda/raw/FunMedia.list
 DOMAIN-KEYWORD,embyplus
+DOMAIN-KEYWORD,embymv
