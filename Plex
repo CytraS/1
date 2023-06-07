@@ -1,0 +1,17 @@
+# Plex
+DOMAIN-KEYWORD,imetyou
+DOMAIN-KEYWORD,nijigem
+# IP-CIDR,202.61.255.248/32
+DOMAIN-KEYWORD,embytv
+DOMAIN-KEYWORD,nmg
+DOMAIN-KEYWORD,infinityfly
+DOMAIN-KEYWORD,acemby
+DOMAIN-KEYWORD,speedx
+DOMAIN-KEYWORD,nebula
+DOMAIN-KEYWORD,misakaf
+DOMAIN-KEYWORD,poloemby
+DOMAIN,plex.vv.gd
+DOMAIN-SUFFIX,emby.9191001.xyz
+DOMAIN-KEYWORD,ccemby
+RULE-SET,https://gist.githubusercontent.com/IlluminateDarkheat/d8d02c34cf2e4f96f61329d5946f8dda/raw/FunMedia.list
+DOMAIN-KEYWORD,embyplus
